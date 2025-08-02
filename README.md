@@ -72,7 +72,7 @@ This data simulates a multi-channel, multi-region B2B sales environment.
 - The USA leads in total sales.
 - Products like *Prunes*, *Apple rings*, and *Banana chips* top the sales charts.
 - Sales spike in Q2 and Q4 of the year.
-- Sidharth Singh and Arjun Sharma are top sales performers by revenue.
+- Sidharth Singh and Marney O'Breen are top sales performers by revenue.
 
 ---
 
